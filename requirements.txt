@@ -1,0 +1,5 @@
+numpy==1.16.2
+sumy==0.7.0
+nltk==3.4
+beautifulsoup4==2.2
+bs4==2.2
