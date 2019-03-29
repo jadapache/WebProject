@@ -1,0 +1,8 @@
+
+{
+  "name": "Text Resumen App",
+  "description": "A practice text resumizer app built with python",
+  "repository": "https://github.com/jadapache/WebProject,
+  "logo": "http://www.unixstickers.com/image/data/stickers/flask/Flask-logo.sh.png",
+  "keywords": ["Flask", "TextResumizer"]
+}
