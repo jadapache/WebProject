@@ -1,4 +1,4 @@
-# WebProject
+# Textresumen
 Website done at Flask. Further, this Website has been built with Boostrap core Javascript 4.3.1.
 
 The purpose of the Webapp is resumize plain text or text in a website, 
