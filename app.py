@@ -2,8 +2,8 @@ from __future__ import absolute_import
 from __future__ import division, unicode_literals
 import logging
 from flask import Flask, render_template, jsonify, request
-
 import sys
+import os
 
 # Extrayendo información de pagina web
 from bs4 import BeautifulSoup
@@ -88,7 +88,7 @@ def analyze_url():
 def about():
     return render_template('index.html')
 
+port = int(os.environ.get('PORT', 5000))
 
 if __name__ == "__main__":
-	app.debug = False
-	app.run()
+	app.run(host='0.0.0.0', port=port, debug=True)
