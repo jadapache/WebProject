@@ -4,5 +4,5 @@
   "description": "A practice text resumizer app built with python",
   "repository": "https://github.com/jadapache/WebProject,
   "logo": "https://www.probytes.net/wp-content/uploads/2018/10/flask-logo-png-transparent.png",
-  "keywords": ["Flask", "Text Resume"]
+  "keywords": ["Flask", "Text Resumen"]
 }
