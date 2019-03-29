@@ -2,7 +2,7 @@
 {
   "name": "Text Resumen App",
   "description": "A practice text resumizer app built with python",
-  "repository": "https://github.com/jadapache/WebProject,
-  "logo": "https://www.probytes.net/wp-content/uploads/2018/10/flask-logo-png-transparent.png",
-  "keywords": ["Flask", "Text Resumen"]
+  "repository": "https://github.com/jadapache/Textresumen,
+  "logo": "https://kevin-brown.com/images/flask-logo.svg",
+  "keywords": ["Flask", "Bootstrap"]
 }
