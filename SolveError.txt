@@ -1,0 +1,3 @@
+En el entorno virtual ejecutar:
+
+python -c "import nltk; nltk.download('punkt')"
